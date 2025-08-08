@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity27\bin\Debug\Activity27.exe.config
+C:\Users\HP\source\repos\Activity27\bin\Debug\Activity27.exe
+C:\Users\HP\source\repos\Activity27\bin\Debug\Activity27.pdb
+C:\Users\HP\source\repos\Activity27\obj\Debug\Activity27.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity27\obj\Debug\Activity27.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity27\obj\Debug\Activity27.exe
+C:\Users\HP\source\repos\Activity27\obj\Debug\Activity27.pdb
